@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 124,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day2",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 29, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 457,
+      "category": "food",
+      "title": "Community Gardening2",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 15, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 790,
+      "category": "sustainability",
+      "title": "Beach Cleanup2",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 23, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
     }
   ]
 }
